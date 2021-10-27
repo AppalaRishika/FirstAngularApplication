@@ -1,0 +1,36 @@
+.mainHead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  padding: 15px;
+  width: 400px;
+  margin-left: 420px;
+  border-style: solid;
+}
+h1 {
+  color: navy;
+}
+.add {
+  position: relative;
+  padding: 15px;
+  width: 400px;
+  margin-left: 420px;
+  border-style: solid;
+}
+label {
+  color:darkred;
+  font-size: x-large;
+}
+button {
+  margin-left: 150px;
+}
+li {
+  list-style: none;
+  margin-top: 10px;
+  font-style: oblique;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:black;
+  font-size: 20px;
+  border-style: solid;
+}
